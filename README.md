@@ -14,7 +14,7 @@ Automatizar y desarrollar un sistema de **Business Intelligence** para extraer y
 ## 🧱 Estructura del proyecto
 | Componente | Descripción |
 |-------------|-------------|
-| `Reto Buconda.pbix` | Dashboard de Power BI con KPIs, precios, pedidos, noticias y OoS. |
+| `Reto Buconda.pbix` | Dashboard de Power BI con KPIs, precios, pedidos y noticias. |
 | `dashboard 1.png` | Vista general del panel de análisis de precios. |
 | `dashboard 2.png` | Vista general del panel de análisis de pedidos. |
 | `dashboard 1.png` | Vista general del panel de noticias. |
