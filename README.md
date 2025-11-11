@@ -15,9 +15,6 @@ Automatizar y desarrollar un sistema de **Business Intelligence** para extraer y
 | Componente | Descripción |
 |-------------|-------------|
 | `Reto Buconda.pbix` | Dashboard de Power BI con KPIs, precios, pedidos y noticias. |
-| `dashboard 1.png` | Vista general del panel de análisis de precios. |
-| `dashboard 2.png` | Vista general del panel de análisis de pedidos. |
-| `dashboard 1.png` | Vista general del panel de noticias. |
 
 ---
 
@@ -31,7 +28,7 @@ Automatizar y desarrollar un sistema de **Business Intelligence** para extraer y
 ---
 
 ## 🔍 Proceso ETL
-1. **Extracción:** datos fuente en Excel y SQL. Extracción de los precios y de noticias relevantes mediante scrapping automatizado. 
+1. **Extracción:** datos fuente en Excel y SQL. Extracción de los precios y de noticias relevantes mediante scrapping automatizado. Tipo de cambio CNY - EUR a traves de xml web del BCE.
 2. **Transformación:** normalización, unión de tablas, control de valores.  
 3. **Carga:** modelo Power BI con relación estrella (Sales ↔ Product ↔ Supplier ↔ Calendar).
 
